@@ -1,0 +1,15 @@
+venv/ 
+__pycache__/ 
+.ipynb_checkpoints/ 
+.ipynb_checkpoints/ 
+
+# Git LFS tracked files
+*.dll
+*.pyd
+
+
+
+# Ignore myenv folder
+myenv/
+
+

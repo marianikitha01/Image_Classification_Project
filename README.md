@@ -27,6 +27,7 @@ Install the required packages using:
 
 ```bash
 pip install tensorflow numpy pandas matplotlib
+```
 
 ## Predicting with Your Own Images
 
